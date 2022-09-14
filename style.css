@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: blueviolet;
+}
+
+span {
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#series-movies {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+li{
+    line-height: 3;
+}
+
+#characters {
+    font-size: 17px;
+}
+
+/* BONUS STUFF */
+h4 {
+    letter-spacing: 14px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h4, h3, h2 {
+    text-align: center;
+}
+
+li {
+    font-size: 2rem;
+}
+
+body {
+    background-image: url(starTrek.jpg);
+    background-position: center;
+    background-size: cover;
+    color: purple;
+}
